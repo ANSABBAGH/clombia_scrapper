@@ -1,0 +1,944 @@
+{
+  "total": 877,
+  "success": 828,
+  "error": 49,
+  "resultPerCity": {
+    "Tierralta": {
+      "success": 5,
+      "error": 1,
+      "total": 6
+    },
+    "Maria la Baja": {
+      "success": 6,
+      "error": 0,
+      "total": 6
+    },
+    "Mangangué": {
+      "success": 6,
+      "error": 0,
+      "total": 6
+    },
+    "Manaure": {
+      "success": 2,
+      "error": 1,
+      "total": 3
+    },
+    "Planeta Rica": {
+      "success": 5,
+      "error": 0,
+      "total": 5
+    },
+    "Santa Cruz de Mompox": {
+      "success": 2,
+      "error": 0,
+      "total": 2
+    },
+    "Turbaco": {
+      "success": 6,
+      "error": 0,
+      "total": 6
+    },
+    "Riohacha": {
+      "success": 3,
+      "error": 3,
+      "total": 6
+    },
+    "El Carmen de Bolivar": {
+      "success": 5,
+      "error": 1,
+      "total": 6
+    },
+    "San Juan del cesar": {
+      "success": 5,
+      "error": 0,
+      "total": 5
+    },
+    "Maicao": {
+      "success": 4,
+      "error": 2,
+      "total": 6
+    },
+    "Montelibano": {
+      "success": 3,
+      "error": 1,
+      "total": 4
+    },
+    "San Andrès de Sotavento": {
+      "success": 6,
+      "error": 0,
+      "total": 6
+    },
+    "Santa Cruz de Lorica": {
+      "success": 3,
+      "error": 2,
+      "total": 5
+    },
+    "Cereté": {
+      "success": 4,
+      "error": 1,
+      "total": 5
+    },
+    "Ayapel": {
+      "success": 4,
+      "error": 0,
+      "total": 4
+    },
+    "Santa Rosa del Sur": {
+      "success": 1,
+      "error": 1,
+      "total": 2
+    },
+    "Cienaga de Oro": {
+      "success": 2,
+      "error": 0,
+      "total": 2
+    },
+    "Sahagún": {
+      "success": 2,
+      "error": 0,
+      "total": 2
+    },
+    "Uribia": {
+      "success": 0,
+      "error": 2,
+      "total": 2
+    },
+    "Pueblo Nuevo": {
+      "success": 6,
+      "error": 2,
+      "total": 8
+    },
+    "Chinú": {
+      "success": 4,
+      "error": 1,
+      "total": 5
+    },
+    "Zona Bananera": {
+      "success": 4,
+      "error": 1,
+      "total": 5
+    },
+    "Sabanalarga": {
+      "success": 5,
+      "error": 2,
+      "total": 7
+    },
+    "Malambo": {
+      "success": 2,
+      "error": 0,
+      "total": 2
+    },
+    "Corozal": {
+      "success": 2,
+      "error": 0,
+      "total": 2
+    },
+    "Santander de Quilichao": {
+      "success": 10,
+      "error": 2,
+      "total": 12
+    },
+    "Cartago": {
+      "success": 2,
+      "error": 1,
+      "total": 3
+    },
+    "Buenaventura": {
+      "success": 5,
+      "error": 1,
+      "total": 6
+    },
+    "Jamundi": {
+      "success": 5,
+      "error": 0,
+      "total": 5
+    },
+    "San Pelayo": {
+      "success": 4,
+      "error": 0,
+      "total": 4
+    },
+    "San Onofre": {
+      "success": 3,
+      "error": 0,
+      "total": 3
+    },
+    "Puerto Tejada": {
+      "success": 2,
+      "error": 1,
+      "total": 3
+    },
+    "San Marcos": {
+      "success": 1,
+      "error": 0,
+      "total": 1
+    },
+    "Sincelejo": {
+      "success": 2,
+      "error": 0,
+      "total": 2
+    },
+    "Ciénaga": {
+      "success": 3,
+      "error": 0,
+      "total": 3
+    },
+    "Baranoa": {
+      "success": 3,
+      "error": 0,
+      "total": 3
+    },
+    "Tuluà": {
+      "success": 3,
+      "error": 0,
+      "total": 3
+    },
+    "El Banco": {
+      "success": 2,
+      "error": 1,
+      "total": 3
+    },
+    "Florida": {
+      "success": 4,
+      "error": 2,
+      "total": 6
+    },
+    "Itagüí": {
+      "success": 3,
+      "error": 0,
+      "total": 3
+    },
+    "Ipiales": {
+      "success": 7,
+      "error": 1,
+      "total": 8
+    },
+    "Apartadó": {
+      "success": 6,
+      "error": 1,
+      "total": 7
+    },
+    "Quidbó": {
+      "success": 9,
+      "error": 0,
+      "total": 9
+    },
+    "Yumbo": {
+      "success": 2,
+      "error": 1,
+      "total": 3
+    },
+    "Samaniego": {
+      "success": 2,
+      "error": 0,
+      "total": 2
+    },
+    "Fusagasuga": {
+      "success": 5,
+      "error": 1,
+      "total": 6
+    },
+    "Zipaquirá": {
+      "success": 3,
+      "error": 0,
+      "total": 3
+    },
+    "Barrancabermeja": {
+      "success": 6,
+      "error": 0,
+      "total": 6
+    },
+    "Tumaco": {
+      "success": 3,
+      "error": 0,
+      "total": 3
+    },
+    "Ocaña": {
+      "success": 4,
+      "error": 0,
+      "total": 4
+    },
+    "Facatativá": {
+      "success": 2,
+      "error": 0,
+      "total": 2
+    },
+    "Caldas": {
+      "success": 4,
+      "error": 1,
+      "total": 5
+    },
+    "El Cerrito": {
+      "success": 4,
+      "error": 1,
+      "total": 5
+    },
+    "Túquerres": {
+      "success": 3,
+      "error": 0,
+      "total": 3
+    },
+    "Sevilla": {
+      "success": 6,
+      "error": 0,
+      "total": 6
+    },
+    "Envigado": {
+      "success": 3,
+      "error": 0,
+      "total": 3
+    },
+    "Girardot City": {
+      "success": 1,
+      "error": 1,
+      "total": 2
+    },
+    "Girón": {
+      "success": 5,
+      "error": 0,
+      "total": 5
+    },
+    "Chinchiná": {
+      "success": 4,
+      "error": 1,
+      "total": 5
+    },
+    "Sogamoso": {
+      "success": 3,
+      "error": 0,
+      "total": 3
+    },
+    "Arauca": {
+      "success": 4,
+      "error": 1,
+      "total": 5
+    },
+    "Dos Quebradas": {
+      "success": 3,
+      "error": 2,
+      "total": 5
+    },
+    "Usaquén Bogota": {
+      "success": 7,
+      "error": 0,
+      "total": 7
+    },
+    "Duitama": {
+      "success": 4,
+      "error": 0,
+      "total": 4
+    },
+    "Yopal": {
+      "success": 4,
+      "error": 0,
+      "total": 4
+    },
+    "Aguazul": {
+      "success": 4,
+      "error": 1,
+      "total": 5
+    },
+    "Tunjuelito Bogota": {
+      "success": 5,
+      "error": 0,
+      "total": 5
+    },
+    "La Dorada": {
+      "success": 5,
+      "error": 0,
+      "total": 5
+    },
+    "Bosa Bogota": {
+      "success": 4,
+      "error": 0,
+      "total": 4
+    },
+    "Chapinero Bogota": {
+      "success": 3,
+      "error": 0,
+      "total": 3
+    },
+    "Usme/ Sumapaz Bogota": {
+      "success": 4,
+      "error": 2,
+      "total": 6
+    },
+    "Kennedy Bogota": {
+      "success": 6,
+      "error": 0,
+      "total": 6
+    },
+    "San Cristóbal Bogota": {
+      "success": 6,
+      "error": 0,
+      "total": 6
+    },
+    "Piedecuesta": {
+      "success": 2,
+      "error": 0,
+      "total": 2
+    },
+    "Santa Fe/ Los Mártires Bogota": {
+      "success": 1,
+      "error": 0,
+      "total": 1
+    },
+    "Florencia": {
+      "success": 7,
+      "error": 1,
+      "total": 8
+    },
+    "Granada": {
+      "success": 2,
+      "error": 0,
+      "total": 2
+    },
+    "Fontibón Bogota": {
+      "success": 3,
+      "error": 1,
+      "total": 4
+    },
+    "Puente Aranda Bogota": {
+      "success": 4,
+      "error": 1,
+      "total": 5
+    },
+    "Engativá Bogota": {
+      "success": 3,
+      "error": 1,
+      "total": 4
+    },
+    "Barrios Unidos Bogota": {
+      "success": 2,
+      "error": 0,
+      "total": 2
+    },
+    "Teusaquillo Bogota": {
+      "success": 3,
+      "error": 0,
+      "total": 3
+    },
+    "Rafael Uribe Uribe Bogota": {
+      "success": 4,
+      "error": 0,
+      "total": 4
+    },
+    "Antonio Nariňo Bogota": {
+      "success": 4,
+      "error": 1,
+      "total": 5
+    },
+    "Comuna 6 Cali": {
+      "success": 7,
+      "error": 0,
+      "total": 7
+    },
+    "Comuna 5 Cali": {
+      "success": 4,
+      "error": 0,
+      "total": 4
+    },
+    "Suba Bogota": {
+      "success": 2,
+      "error": 0,
+      "total": 2
+    },
+    "La Candelaria Bogota": {
+      "success": 6,
+      "error": 0,
+      "total": 6
+    },
+    "Comuna 4 Cali": {
+      "success": 2,
+      "error": 0,
+      "total": 2
+    },
+    "Ciúdad Bolívar Bogota": {
+      "success": 6,
+      "error": 0,
+      "total": 6
+    },
+    "Comuna 3 Cali": {
+      "success": 3,
+      "error": 0,
+      "total": 3
+    },
+    "San Javier Medellin": {
+      "success": 4,
+      "error": 1,
+      "total": 5
+    },
+    " El Poblado Medellin": {
+      "success": 5,
+      "error": 0,
+      "total": 5
+    },
+    "Belen Medellin": {
+      "success": 4,
+      "error": 0,
+      "total": 4
+    },
+    "Castilla Medellin": {
+      "success": 2,
+      "error": 0,
+      "total": 2
+    },
+    "Manrique Medellin": {
+      "success": 2,
+      "error": 0,
+      "total": 2
+    },
+    "La Candeleria Medellin": {
+      "success": 6,
+      "error": 0,
+      "total": 6
+    },
+    "Comuna 8 Cali": {
+      "success": 3,
+      "error": 0,
+      "total": 3
+    },
+    "Riomar Baranquilla": {
+      "success": 8,
+      "error": 0,
+      "total": 8
+    },
+    "Comuna 16 Cali": {
+      "success": 6,
+      "error": 0,
+      "total": 6
+    },
+    "Comuna 17 Cali": {
+      "success": 2,
+      "error": 0,
+      "total": 2
+    },
+    "Comuna 22 Cali": {
+      "success": 4,
+      "error": 0,
+      "total": 4
+    },
+    "Comuna 21 Cali": {
+      "success": 5,
+      "error": 0,
+      "total": 5
+    },
+    "Histórica y del Caribe Norte Carthagène": {
+      "success": 3,
+      "error": 0,
+      "total": 3
+    },
+    "Metropolitana Baranquilla": {
+      "success": 4,
+      "error": 0,
+      "total": 4
+    },
+    "Suroccidente Baranquilla": {
+      "success": 5,
+      "error": 0,
+      "total": 5
+    },
+    "Comuna 12 Cali": {
+      "success": 7,
+      "error": 0,
+      "total": 7
+    },
+    "Comuna 19 Cali": {
+      "success": 1,
+      "error": 0,
+      "total": 1
+    },
+    "Norte-Centro Histórico Baranquilla": {
+      "success": 4,
+      "error": 0,
+      "total": 4
+    },
+    "Comuna 10 Cali": {
+      "success": 3,
+      "error": 0,
+      "total": 3
+    },
+    "Suroriente Baranquilla": {
+      "success": 4,
+      "error": 0,
+      "total": 4
+    },
+    "Centro Cucuta": {
+      "success": 5,
+      "error": 0,
+      "total": 5
+    },
+    " De la Virgen y Turística Carthagène": {
+      "success": 3,
+      "error": 0,
+      "total": 3
+    },
+    "Oriental Cucuta": {
+      "success": 5,
+      "error": 0,
+      "total": 5
+    },
+    "Suroccidental Cucuta": {
+      "success": 7,
+      "error": 0,
+      "total": 7
+    },
+    "Norte Cucuta": {
+      "success": 8,
+      "error": 0,
+      "total": 8
+    },
+    "Sur Oriental Cucuta": {
+      "success": 5,
+      "error": 0,
+      "total": 5
+    },
+    "Nororiental Cucuta": {
+      "success": 6,
+      "error": 0,
+      "total": 6
+    },
+    "Centro Oriental Cucuta": {
+      "success": 5,
+      "error": 0,
+      "total": 5
+    },
+    "Garcia Rovira Bucaramanga": {
+      "success": 4,
+      "error": 0,
+      "total": 4
+    },
+    "Centro Pereira": {
+      "success": 4,
+      "error": 0,
+      "total": 4
+    },
+    "Cementerio Cucuta": {
+      "success": 4,
+      "error": 0,
+      "total": 4
+    },
+    "Occidental Cucuta": {
+      "success": 5,
+      "error": 0,
+      "total": 5
+    },
+    "Noroccidental Cucuta": {
+      "success": 5,
+      "error": 0,
+      "total": 5
+    },
+    "Centro Bucaramanga": {
+      "success": 7,
+      "error": 0,
+      "total": 7
+    },
+    " El Poblado Pereira": {
+      "success": 8,
+      "error": 0,
+      "total": 8
+    },
+    " Oriental Bucaramanga": {
+      "success": 5,
+      "error": 0,
+      "total": 5
+    },
+    " Cuba Pereira": {
+      "success": 4,
+      "error": 0,
+      "total": 4
+    },
+    "Cabecera Bucaramanga": {
+      "success": 3,
+      "error": 0,
+      "total": 3
+    },
+    "San Francisco Bucaramanga": {
+      "success": 5,
+      "error": 0,
+      "total": 5
+    },
+    "Industrial de la Bahía Carthagène": {
+      "success": 2,
+      "error": 0,
+      "total": 2
+    },
+    " La Ciudadela Bucaramanga": {
+      "success": 4,
+      "error": 0,
+      "total": 4
+    },
+    " GAIRA-RODADERO Santa Marta": {
+      "success": 6,
+      "error": 0,
+      "total": 6
+    },
+    "Jordán Ibagué": {
+      "success": 5,
+      "error": 0,
+      "total": 5
+    },
+    "Centro Neiva": {
+      "success": 5,
+      "error": 0,
+      "total": 5
+    },
+    "Communa 1 Pasto": {
+      "success": 7,
+      "error": 0,
+      "total": 7
+    },
+    " Ciudala del Norte Manizales": {
+      "success": 3,
+      "error": 0,
+      "total": 3
+    },
+    "Communa 2 Villavicencio": {
+      "success": 6,
+      "error": 0,
+      "total": 6
+    },
+    "  CENTRE Santa Marta": {
+      "success": 2,
+      "error": 0,
+      "total": 2
+    },
+    "Communa 9 Pasto": {
+      "success": 3,
+      "error": 0,
+      "total": 3
+    },
+    "Polideportivo-Jardin Santa Marta": {
+      "success": 4,
+      "error": 0,
+      "total": 4
+    },
+    " Oriental Neiva": {
+      "success": 5,
+      "error": 0,
+      "total": 5
+    },
+    "Estadio Ibagué": {
+      "success": 8,
+      "error": 0,
+      "total": 8
+    },
+    "Simón Bolivar Ibagué": {
+      "success": 6,
+      "error": 0,
+      "total": 6
+    },
+    "Estacion Manizales": {
+      "success": 5,
+      "error": 0,
+      "total": 5
+    },
+    "Centro Ibagué": {
+      "success": 7,
+      "error": 0,
+      "total": 7
+    },
+    " Universitaria Manizales": {
+      "success": 5,
+      "error": 0,
+      "total": 5
+    },
+    "Communa 3 Pasto": {
+      "success": 4,
+      "error": 0,
+      "total": 4
+    },
+    "Boquerón Ibagué": {
+      "success": 3,
+      "error": 0,
+      "total": 3
+    },
+    "Communa 8 Villavicencio": {
+      "success": 4,
+      "error": 0,
+      "total": 4
+    },
+    "Communa 5 Villavicencio": {
+      "success": 6,
+      "error": 0,
+      "total": 6
+    },
+    "Norrocidental Neiva": {
+      "success": 3,
+      "error": 0,
+      "total": 3
+    },
+    "El Bosque Armenia": {
+      "success": 7,
+      "error": 0,
+      "total": 7
+    },
+    "Communa 6 Popayan": {
+      "success": 5,
+      "error": 0,
+      "total": 5
+    },
+    "Communa 7 Popayan": {
+      "success": 7,
+      "error": 0,
+      "total": 7
+    },
+    "Comuna 5 Monteria": {
+      "success": 4,
+      "error": 0,
+      "total": 4
+    },
+    "Communa 3 Popayan": {
+      "success": 4,
+      "error": 0,
+      "total": 4
+    },
+    "Comuna 1 Valledupar": {
+      "success": 7,
+      "error": 0,
+      "total": 7
+    },
+    "Fundadores Armenia": {
+      "success": 6,
+      "error": 0,
+      "total": 6
+    },
+    " Centro Histórico Tunja": {
+      "success": 9,
+      "error": 0,
+      "total": 9
+    },
+    "Centenario Armenia": {
+      "success": 4,
+      "error": 0,
+      "total": 4
+    },
+    " Communa 4 Floridablanca": {
+      "success": 3,
+      "error": 0,
+      "total": 3
+    },
+    "Comuna 2 Valledupar": {
+      "success": 4,
+      "error": 0,
+      "total": 4
+    },
+    "Comuna 6 Monteria": {
+      "success": 4,
+      "error": 0,
+      "total": 4
+    },
+    "Communa 2Floridablanca": {
+      "success": 7,
+      "error": 0,
+      "total": 7
+    },
+    "Comuna 2 NordesteTunja": {
+      "success": 5,
+      "error": 0,
+      "total": 5
+    },
+    "Comuna 8 Monteria": {
+      "success": 6,
+      "error": 0,
+      "total": 6
+    },
+    "Comuna 6 Valledupar": {
+      "success": 5,
+      "error": 0,
+      "total": 5
+    },
+    "Communa 7 Floridablanca": {
+      "success": 6,
+      "error": 0,
+      "total": 6
+    },
+    " Comuna 2 Monteria": {
+      "success": 4,
+      "error": 0,
+      "total": 4
+    },
+    "Communa 4 Popayan": {
+      "success": 7,
+      "error": 0,
+      "total": 7
+    },
+    "Comuna 4 Valledupar": {
+      "success": 4,
+      "error": 0,
+      "total": 4
+    },
+    "Comuna 6 Sudoeste Tunja": {
+      "success": 4,
+      "error": 0,
+      "total": 4
+    },
+    "Communa 1 Palmira": {
+      "success": 5,
+      "error": 0,
+      "total": 5
+    },
+    "Communa 5 Palmira": {
+      "success": 4,
+      "error": 0,
+      "total": 4
+    },
+    "Niquia Bello": {
+      "success": 12,
+      "error": 0,
+      "total": 12
+    },
+    "Olivos Soacha": {
+      "success": 8,
+      "error": 0,
+      "total": 8
+    },
+    "Santa Ana Bello": {
+      "success": 8,
+      "error": 0,
+      "total": 8
+    },
+    "La Cumbre Bello": {
+      "success": 7,
+      "error": 0,
+      "total": 7
+    },
+    " Los Cedros Soledad": {
+      "success": 3,
+      "error": 0,
+      "total": 3
+    },
+    " La Madera Bello": {
+      "success": 4,
+      "error": 0,
+      "total": 4
+    },
+    "El Ferrocaril Soledad": {
+      "success": 2,
+      "error": 0,
+      "total": 2
+    },
+    " Ciudadela Metropolitana Soledad": {
+      "success": 6,
+      "error": 0,
+      "total": 6
+    },
+    " Centro Soacha": {
+      "success": 4,
+      "error": 0,
+      "total": 4
+    },
+    "Communa 3 Palmira": {
+      "success": 8,
+      "error": 0,
+      "total": 8
+    },
+    "Ciudadela Sucre Soacha": {
+      "success": 7,
+      "error": 0,
+      "total": 7
+    }
+  },
+  "numberOfCall": 671,
+  "date": "2023-05-03T22:12:03.363Z"
+}

@@ -1,0 +1,84 @@
+code vertical;code réseau;Colonne1;QC;FR;ES
+1;1;HABITATION ;Agents (Courtiers) immobiliers;Agents (Courtiers) immobiliers;Agentes inmobiliarios 
+2;1;HABITATION ;Aménagement paysager;Aménagement paysager;Paisajista
+3;1;HABITATION ;Asphalte / Scellants;Entreprise de revêtement de sols et de murs;Asfalto 
+4;1;HABITATION ;Chauffage / Ventilation / Climatisation;Chauffage/ Ventilation/ Climatisation;Calefacción 
+5;1;HABITATION ;Construction neuve;Constructeur de maisons ;Nueva construcción u obra nueva
+6;1;HABITATION ;Déménagement;Déménagement;Mudanza 
+7;1;HABITATION ;Démolition;Démolition;Demolición
+8;1;HABITATION ;Électriciens;Électricien;Electricistas
+9;1;HABITATION ;Électroménagers;Électroménagers;Electrodomésticos
+10;1;HABITATION ;Énergie solaire;Énergie solaire;Energía solar
+11;1;HABITATION ;Entreposage;Entreposage;Almacenamiento o depósito
+12;1;HABITATION ;Entretien ménager;Entretien ménager;Mantenimiento o limpieza del hogar
+13;1;HABITATION ;Équipement pour adoucissement d'eau;Matériel pour adoucisseur d'eau;Equipos de ablandamiento o descalcificación del agua
+14;1;HABITATION ;Exterminateurs;Exterminateurs;Exterminadores
+15;1;HABITATION ;Fondations / Béton / Fissures;Réparateur de fondations;Cimientos 
+16;1;HABITATION ;Forage de puits;Entreprise de forage;Perforación de pozos
+17;1;HABITATION ;Fosses septiques;Fosses septiques;Pozos sépticos
+18;1;HABITATION ;Fournisseur d'Équipement de purification d'eau;Fournisseur de matériel en traitement de l'eau;Proveedor de equipos de purificación de agua
+19;1;HABITATION ;Gestion immobiliaire;Gestion immobilère/ Agence immobilière;Gestión inmobiliaria o Gestión de la propiedad
+20;1;HABITATION ;Maçons;Maçon;Albañiles
+21;1;HABITATION ;Magasin d'articles de fête;Magasin d'articles de fête;Tienda de artículos de fiesta
+22;1;HABITATION ;Magasin de meubles;Magasin de meubles;Tienda de muebles
+23;1;HABITATION ;Menuisier;Menuisier;Carpintero o ebanista
+24;1;HABITATION ;Nettoyage et lavage à la pression;Nettoyage haute pression/ Service de lavage haute pression;Limpieza y lavado a presión
+25;1;HABITATION ;Piscines et Spas;Piscine et spas;Piscinas y spas
+26;1;HABITATION ;Plombiers;2;Plomeros
+27;1;HABITATION ;Propane / BBQ;Gaz/ BBQ;Propano 
+28;1;HABITATION ;Quincaillerie;Quincaillerie;Ferretería
+29;1;HABITATION ;Rénovations (Entrepreneur général);Rénovations ;Renovaciones
+30;1;HABITATION ;Réparation électroménagers;Réparation électroménagers;Reparación de electrodomésticos
+31;1;HABITATION ;Serrurier;Serrurier;Cerrajero
+32;1;HABITATION ;Systèmes d'alarme;Systèmes d'alarme;Sistemas de alarma
+33;1;HABITATION ;Toitures;Toitures;Tejados
+34;1;HABITATION ;Vitrier;Vitrier;Vidriero
+35;2;SANTE;Acupuncteurs;Acupunteurs;Acupunturistas
+36;2;SANTE;Chiropraticiens;Chiropracteurs;Quiroprácticos
+37;2;SANTE;Chirurgie esthétique / plastique;Chirurgie plastique/ Médecine esthétique;Cirugía plástica
+38;2;SANTE;Chirurgie générale;Chirurgie générale;Cirugía general
+39;2;SANTE;Clinique spécialisée;Clinique privée;Cirugía especializada
+40;2;SANTE;Cliniques médicales;Cliniques privées/ Centres médicaux;Clínicas médicas
+41;2;SANTE;Cliniques santé voyage;Inexistant en France;Clínicas de salud para viajeros
+42;2;SANTE;Dentistes;Dentistes;Dentistas
+43;2;SANTE;Dermatologues;Dermatologues;Dermatólogos
+44;2;SANTE;Épilation au laser;Épilation au laser;Depilación láser
+45;2;SANTE;Esthétique;Esthétique;Estetica
+46;2;SANTE;Gyms;Salle de sport;Gimnasios
+47;2;SANTE;Gynécologues;Gynécologues;Ginecólogos
+48;2;SANTE;Hôpitaux;Hôpitaux;Hospitales
+49;2;SANTE;Implantologie;Implantologie;Implantología
+50;2;SANTE;Lunetteries / Optométristes;Lunetterie/ Optométristes;Óptica
+51;2;SANTE;Magasin d'articles spirituels;Boutique ésotérique;Tienda de artículos espirituales
+52;2;SANTE;Salon de manucure;Salon de manucure;Salón de uñas o salón de manicura
+53;2;SANTE;Orthodontistes;Orthodontiste;Ortodoncistas
+54;2;SANTE;Pharmacies;Pharmacie;Farmacias
+55;2;SANTE;Physiothérapeutes;Kinésithérapeute;Fisioterapeutas
+56;2;SANTE;Psychologues;Psychologues;Psicólogos
+57;2;SANTE;Psychothérapeutes;Psychothérapeutes;Psicoterapeutas
+58;2;SANTE;Salon de coiffure;Salon de coiffure;Peluquería o salón de belleza
+59;2;SANTE;Soins médico-esthétique;Soins médico-esthétique;Cuidados médicos y estéticos
+60;2;SANTE;Toilettage pour animaux;Toilettage pour animaux;Peluquería canina
+61;3;GARAGE;Carrosserie;Carrosserie;Carrosería o Chasis
+62;3;GARAGE;Esthétique automobile;Esthétique automobile;Estética de automóviles o carros
+63;3;GARAGE;Financement auto;Financement auto/ Crédit auto;Financiación de autos o carros
+64;3;GARAGE;Garage mécanique;Mécanique auto/ Garage;Mecánicos de taller o mecánicos
+65;3;GARAGE;Lave auto;Lavage auto;Lavadero de carros o lavado de autos
+66;3;GARAGE;Magasin d'accessoires automobiles;Magasin d'accessoires automobiles;Tiendas de accesorios para automóviles
+67;3;GARAGE;Moto / VTT;Moto/ VTT;Moto y bicicletas
+68;3;GARAGE;Pare-brise;Pare-brise;Parabrisas
+69;3;GARAGE;Pièces d'auto;Pièces auto;Piezas o partes de automóviles 
+70;3;GARAGE;Pneus;Pneus;Neumáticos
+71;3;GARAGE;Taxi;Taxi;Taxi
+72;3;GARAGE;Transport;Transport;Transporte
+73;3;GARAGE;Voitures d'occassion;Voitures d'occassion;Carros usados
+74;4;COMPTABILITE;Gestion comptable;Gestion comptable;Gestión contable
+75;4;COMPTABILITE;Prêteur privé;Prêteur privé;Prestamista privado
+76;5;AVOCAT;Avocat généraliste;Avocat généraliste;Corredores hipotecarios
+77;5;AVOCAT;Courtiers hypothécaires;Courtier hypothécaire;Abodado 
+78;5;AVOCAT;Avocat en droit des affaires;Avocat en droit des affaires;Abogado empresarial o de empresa
+79;5;AVOCAT;Avocat en droit des aînés;Avocat en droit des seniors;Abogado especializado en Derecho de la vejez
+80;5;AVOCAT;Avocat en droit civil;Avocat en droit civil;Abogado civil o abogado en derecho civil 
+81;5;AVOCAT;Avocat en droit criminel et pénal;Avocat en droit pénal;Abogado penalista o Abogado en derecho penal y criminal
+82;5;AVOCAT;Avocat en droit familial;Avocat en droit de la famille;Abogado de familia o Abogado de derecho de familia
+83;5;AVOCAT;Avocat en droit immobilier;Avocat en droit immobilier;Abogado de bienes raices o abogado inmobiliario
